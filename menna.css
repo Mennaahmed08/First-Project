@@ -74,8 +74,8 @@ p{
     height: 789.78px;
     margin-left: auto;
     margin-right: auto;
-    /* padding-right: 32px;
-    padding-left: 32px; */
+    padding-right: 32px;
+    padding-left: 32px;
     background-color: #fff0;
     flex-direction: column;
     justify-content: center;
@@ -174,7 +174,7 @@ p{
     top: auto;
     left: auto;
     bottom: -52px;
-    right: 315px;
+    right: 285px;
 }
 .bottomleft{
     width: 21.5%;
@@ -182,7 +182,7 @@ p{
     position: absolute;
     bottom: -57%;
     right: auto;
-    left: 272px;
+    left: 307px;
     top: auto;
 }
 .display{
